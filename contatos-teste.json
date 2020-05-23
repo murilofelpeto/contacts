@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Rafael",
+    "telefones": {
+      "principal": "11999777888"
+    },
+    "emails": {
+      "principal": "rafael@exemplo.com"
+    }
+  },
+  {
+    "nome": "Roberto",
+    "telefones": {
+      "principal": "61555666777"
+    },
+    "emails": {
+      "principal": "roberto@exemplo.com"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "nome": "Ana",
+    "telefones": {
+      "principal": "11999888563"
+    },
+    "emails": {
+      "principal": "ana@email.com"
+    }
+  },
+  {
+    "nome": "Pedro",
+    "telefones": {
+      "principal": "1955552222"
+    },
+    "emails": {
+      "principal": "pedro@email.com"
+    }
+  },
+  {
+    "nome": "Mariana",
+    "telefones": {
+      "principal": "21145145145",
+      "casa": "45124512"
+    },
+    "emails": {
+      "principal": "mariana@email.com"
+    }
+  },
+  {
+    "nome": "Jo\u00e3o",
+    "telefones": {
+      "principal": "1152525252"
+    },
+    "emails": {
+      "principal": "joao@email.com"
+    }
+  }
+]
