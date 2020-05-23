@@ -1,7 +1,5 @@
-# Linguagem de Programação II
-# Atividade Contínua 05 - Classes e encapsulamento
-#
-# e-mails: gilda.costa@aluno.faculdadeimpacta.com.br
+#05 - Classes e encapsulamento
+
 
 from typing import List, Tuple
 import json
